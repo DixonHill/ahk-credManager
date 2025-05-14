@@ -10,7 +10,7 @@ Author: Dixon Hill
 Date: 2025-05-14
 Version: 1.0
 License: MIT
-URL: https://github.com
+URL: https://github.com/DixonHill/ahk-credManager
 Description: This script provides a graphical user interface (GUI) for securely managing credentials-such as usernames and passwords-using the Windows Credential Manager, all through AutoHotkey v2. It allows users to easily create, edit, delete, and view credentials via a convenient window that can be opened with a customizable hotkey. Credentials are stored with a specific prefix in Windows Credential Manager, ensuring they are kept secure and separate from other credentials. The script also exposes simple methods for other AutoHotkey scripts to programmatically retrieve or update credentials, making it a practical tool for both end users and developers who need to manage sensitive login information within their automation workflows.
 
 USAGE INSTRUCTIONS:
